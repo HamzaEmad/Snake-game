@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561508769 source:e:\others\fci\snake\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<conio.h>
+	<windows.h>
+
